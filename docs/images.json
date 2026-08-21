@@ -1,0 +1,36 @@
+{
+  "productId": 19,
+  "images": [
+    {
+      "file": "screen-01.png",
+      "url": "http://file.bysj.site/blog/java/99f97c8d42dc4cc59947cdb2952d35c7.png",
+      "bytes": 376086
+    },
+    {
+      "file": "screen-02.png",
+      "url": "http://file.bysj.site/blog/java/6757d8a93b3944659997ade33af04a08.png",
+      "bytes": 165720
+    },
+    {
+      "file": "screen-03.png",
+      "url": "http://file.bysj.site/blog/java/cf091d88f2b4453ebccac7b27a3c1659.png",
+      "bytes": 356881
+    },
+    {
+      "file": "screen-04.png",
+      "url": "http://file.bysj.site/blog/java/84c1394f4cc847e5a83d01d19d512262.png",
+      "bytes": 3028974
+    },
+    {
+      "file": "screen-05.png",
+      "url": "http://file.bysj.site/blog/java/f1961c9687a1469db280d27e3f9cbf40.png",
+      "bytes": 126358
+    },
+    {
+      "file": "screen-06.png",
+      "url": "http://file.bysj.site/blog/java/ecfda9f7eb224f95b013ea6108fa0c1e.png",
+      "bytes": 133278
+    }
+  ],
+  "video": null
+}

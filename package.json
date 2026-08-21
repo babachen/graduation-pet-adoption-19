@@ -1,0 +1,17 @@
+{
+  "name": "graduation-pet-adoption-19",
+  "version": "0.1.0",
+  "private": true,
+  "description": "基于微信小程序的流浪动物领养系统：全栈实现与功能亮点 · 工坊 product=19",
+  "license": "MIT",
+  "homepage": "https://app.bysj.site/?page=products&product=19",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babachen/graduation-pet-adoption-19.git"
+  },
+  "keywords": [
+    "微信小程序",
+    "毕业设计",
+    "展示仓"
+  ]
+}
